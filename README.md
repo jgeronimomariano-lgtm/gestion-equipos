@@ -16,7 +16,7 @@ Proyecto del Técnico en Programación de Software (SENA) - Retos de Programaci�
 
 1. Clonar el repositorio:
    ```
-   git clone https://github.com/TU_USUARIO/gestion_equipos.git
+   git clone https://github.com/jgeronimomariano-lgtm/gestion_equipos.git
    cd gestion_equipos
    ```
 2. Instalar la dependencia:
